@@ -1,1 +1,164 @@
-import lzma,base64;exec(lzma.decompress(base64.b85decode(b'000001poj4|NsC0{{S?c)SaDOx!YDH3fs@wcUWnQ{1_Lm`R5?CdxOn0I=Sp<MYn{#!f)iLD%2rG(k5aS+=|3CZideAG_GB&vdJ}#B0Q3uO6RLr8+^XdM2@ISaw;_5{Yw0fM05|q-|<P!z*#$M3-Sn9FeIyJzT7xf7C*9cI36gOpcVr_NSZWG$cBaE+Ra8sEX!cv#Br8(uN0FAMhBZ9{>4}FA5#qeBl2A)>i!>yJT@-bHgYe@d1)_6NNB`HW@^Zon(3(@_d0=*J&!hLMJ2$$l1}oAzlq<<)B!xp(NAf7`*#c#uuBu29|l7$S+9*(ocVxq8c}aVk^r@wqbRR^u{UYTm@%B9#0&%a>*selE6%)X=Qwp1TxSxgK<G3^4syEwOWK5rTm=aH^?XkonFgs}{pHPCQ3qEM_+8^}XVJVj-_qh&D1G9~lodvwG4u{_Rxn@Ox&yfi(lh`YgM;{gw)d9jQR|jNdnB?uAfl5f;hPy>reKPOMjH|s&r0MqzFBbC;@_4Bb^(<0_8AmjE@dubX>_oNXPXL)WWp0rCU^?=Tgdt2Hmnqys1vUK9Yf}O58Mtbqbu_k=EAe4*O;|F0S-Aq_XNMe!7z&oTeaG?{1hmM$i-GK?y4s}gIr+CZn}{J2T00+)s$_^3#HHi*#q2Ps`;d!h7&BXs8aFclf`mDKbIaP1+&@eDENH^9QE=0(z+!=%g`I3T^4s%8^iAox&f-X88F#BaYbA&Oz`)_(ijuS_LdH$_^5xD<|r6Q`WNqYdm8U>pGB?ILR!s)40s~BnsCOZ%Ju`QgI;B_#*#ovuc_fN27tL4D%&>=nqOEu{1VA_SGE=6jJ}1n!*z&^jKDzG!vBDW4(0&Rgl|#%<JcEpZs!aIN95LOc`}FwjaL(o;D;5?+t}czIrV(xO5+Fq1v{qi`e=F9?~;UA@p3%Wtz3-0z1Pe;jQJXnY)gSgmHAVcf*jE(#~Vii`>V0S8IuF=!n$2hzS66dyy+!FCq)I(vozKMPP~1cAHc5<Ld$mHGvpM@^ZA(|@mlijVR14v(V`SQ_j~FJ4ZsoIh>sBmp`oEh!4N3mLa-f)Smxl7jyXuD6>!c;3JX16*BoPIMd*(4Gnx^lL%9CRI5;^##C2&mYklkm%BqmYcqrjWnwe>r52a4n&n?~t*TlxL(*lGn_h>En1NtaUR8apVSCYTPwhd0pl1gkA*t7I$Udq~2utCJo4iH6m%XtrMEvWR5jh!<UxPl+X$+!b64&ZnrrOdWoP&JVhr}-(hY_ATkdO-}lxNuZQmW7I~*&!c_a3+Nae!Z|QZJiMM@Yma*OM3N%q|X{1WoD+VZpMRBlY_xoiq0;hsLNi$vjV6(PGg?gUJ*OU+&G$#=N}c-X5r3m+E1qdZV#yh+lM%3RZ;aZ=r>&$A?Lmevkt3terQKhp+o$9#i%4%ZgCXZHJT!5-+*OW{rB{TAo^MdsBSP4HO21Zb^%)f4lWn1L8JxfH%E$!7tW-dj>!{uR3Sjy(9HEwN|M+75e!kz2~M@>Ug)d_?ZkU<`#Y8~&W!6LPP2cr>Nf=VF1u-KV5d8MzD{Z#v~o~og76XER+?}Z_^f~a7Ufj8pUB6alrS<;o=q_mW9$)k^XauSc#8xORxLl1wN;NcM1NqFX8#jjm;wx)O-}!{fL@0vy&o0Z*k{`EJ_W*&8@jmSocE7o-;EWnRu$iMEBI*=1upYaIH;tA{KJCkdR^Xd=IMFSsy?Z)*L6U%{hBK%DcySmHSSa6g1AU3T3<U*(W9+F1@AgweIV;<pPy?y21?I-xQlpV<vxwNHF=W0?sg#v8~~Q2q*-2ZMn<cY)XsqX(cR2q<Zy-dr!=9oRx;jZw?r1Z^9d)%fjkATDn@<(X)B1|<X;X$E9ml$Qz82Q68z*g&k?NjpY)49iip@?hO#Pa*Ewly&uft+V3kJid59F?6A#Jplhi{e44bSKV&iDei#ZdN_j7gc)pF#$l5C=o)XkKbqK$mYqSiMtMz2y?2mhIQ1!ZtiTo(c8*Tg<`d9jtPEft9+&d6fxDBe8!qR#kHNNt?koE;CCs_)N~6~FAcnlVr+6oRs?U}3B}XgqYWQ)Wcn3D))ymq-I2`PN@>3|kjNyL5wYwh9e#GITj@W-S02j`q_BONtybE7epAq|giqRhK4hIkZ&g4=@hL4&X;F=6%=@%x*g8^sXL~VeWbUa0GzW#!h{QoFYul;cKox+*8=sJXXe&zTCw6wDo_{u-Oj?%8o@90JYIwz{b;YL7H}AAV!cRmqq*Ue5NfXhNJNfNjBgF8CJ=6ujEVItlhWqCJ=KCheVg<jVNXpw;cPr0g63S5VcTT^f3elzr9wl?Ol`8s%f!HF)yV_$l4kO?$#+nP6YA#mL?ZiZSRm3MOQ*=?)gUj3pVrV`TpbQ{}=JFKC*Di%A==?Y=HqIece6(skF&>2EwDQjL@2Fr<?X;V^F<d&p`6g4^GXHX-0(LeH0W!79M+oJ6B^q4?P!`^oP)FWw&ksve|{Tlg{84wxjA#o;YN0z-BWH7doRaX2^T_gi+FpYu4xf1<(<@B=$t`E`tz)S--rC2|drH^M+=A4`NUxPT_vgnvF7`Z1LGI;6r89HHY#3Q%)|l<w*&g?=XFSlmCOeJ@saY7Zc~QG7&jc;XjK<WyMum+jYC~4%Y$(va$vBW%_Q=+!gTHe6J*v^-<E*P@kFm!df6M=;pj%LfG0;2VsF#=oyyh_ztjfueMWV;jERF?>7<50m5{Dx4z)vZ*xESIRj13Oy}+sy)nvTcZIP6q_j6J^rbYK*dn?b0kw>et>0Q}lxFd!yrP%et|DjT8g7Ewd^^XgI4Iz*0gq3wF<}Dlxfag+=SCii_D->!obuS1>p<%$eIf1Yl1Zkil7+QmIrPZg^+&bzsziss<WRZGjZ_4v>OvvY<*FAdt26s?Mfa=x)rgPkX3_dFqf?F2DL5LeSnveQa^(BE$_T2ibUda|3`LU*clQC(DpEG7uhU0IY16;47CRmgY1x~6_mpPBD@2mh!~5Ww`rdP?eKR^1>oiw~RPPcWqK0v7Z8>lYr6|nH5o;CIknTtLhtD$b`Gi}arY?;+p2RS{zsTA8%!Pzx^^IpnRXs&A^6YUX+@SeY4(G{EuF-27$&*5wLAq6NAZzu%YF&xPrnzgo$>XqU@~0@?>Z_snid>(ERR=UH_vD*&s1&r9*#Ai|W4e!Pq{H0Awl)fbzj$grnDfhlMNiUh7PgB#J*yyqyXltJ3r1h>p*)TL){k8y5UN$o6yAp4dl9<M?doS84Uc2IUkCgN$>n)Y<42#m!VHMsD-^^jPx7F*@O4bR7FfZ}TdmWrQTjj&_ol8s$*AN6<sjg2UnUm5f{e(1hc-m4DrmcWGNMYBzwD?Rb%?hQqkv75@qeFOE41WGCv2^C1vSYc&9}Fuaj_v-{kg5vAB23l4wc1DalrZ-KVmBlb26zh4kh-F#)t1gSw!}k-|6NSrhT*dB_GbT%c&D;ie$Qz%9<?SWEFU7cu!b^$k?WPbHWsD8TUG%!*ZIp)+{zT5tyVNZ*<3YRr(66!5)RvvAeb5i6Ahz6<DPtdE`{66Q3YJo^P-COesYALW09S#yZbUWIMnLc`#)^gRy#2McFG?P9)1TTDZeYf9{~_i!QwLLgjanU?c3}RKX|8)Hp9YG@dZp9VvZae1%&KJqzdajI#yzyHj`4a$Hjh-ZDy@P+TX05y)dZad-vSk<lWrS*Epe<|@Hya*3<@B>Z4QmU6`41?Nk|d^oDi5QUE@_5?aGhYSBbw!C}UHB+g`gU(Vy7K;!WfMsDWBp=}jRg<a(jrEyyq!1ejzVTjL4(HuYcQ3S4ix*Lh7_$h^5Rk(^Ej9x}aNdbG=saZ&wr=c_htB&i0@hYgYN4t=vJOI}S&h56H&Z^?;_qve?|w%4lgb({6p8c>KGMB?yWqu_@+v)+f_jIZjn2}uH-S{EAt4?kc&3-bWwAuYY5Vjx)NtjEI%uf#=plLIw6|NwY?R$LMojgXvlYY-{EL@YUF=vh-Vs_!zeUT<pO4vNpi{YxCfgS{&#0`kXnWs}>p|my2e?NA+c_r^N5A&o>yeeg9#8+)8Cae')))
+import json,os,time,urllib.request as U
+V=[0,100,320,330,500,900,0]
+CF=[0,1,3,3,0,1,-4]
+EV=[[0]*128 for _ in range(13)]
+for s in range(128):
+ if s&0x88:continue
+ r,f=s>>4,s&7
+ ce=min(f,7-f)+min(r,7-r)
+ for t in range(1,7):
+  w=V[t]+ce*CF[t]+(6*r if t<2 else 24 if t>5 else 0)
+  EV[t+6][s]=w
+  EV[6-t][s]=-V[t]-ce*CF[t]-(6*(7-r) if t<2 else 24 if t>5 else 0)
+ND=[31,33,14,18,-31,-33,-14,-18]
+BD=[15,17,-15,-17]
+RD=[1,-1,16,-16]
+KD=BD+RD
+CM={0:13,7:14,4:12,112:7,119:11,116:3}
+CT=[(1,4,1),(2,4,-1),(4,116,1),(8,116,-1)]
+MATE=60000;INF=10**6;CAP=14000
+B=[0]*128;ks={};stk=[]
+nd=0;cp=CAP
+T0=time.monotonic()
+def tk():
+ global nd
+ nd+=1
+ if nd>cp:raise ValueError
+def at(s,by):
+ for ds,t in (((-15*by,-17*by),1),(ND,2),(KD,6)):
+  for d in ds:
+   x=s+d
+   if not x&0x88 and B[x]==t*by:return 1
+ for ds,ts in ((BD,(3,5)),(RD,(4,5))):
+  for d in ds:
+   x=s+d
+   while not x&0x88:
+    p=B[x]
+    if p:
+     if p*by in (ts[0],5):return 1
+     break
+    x+=d
+def gen():
+ for s in range(128):
+  if s&0x88:continue
+  p=B[s]
+  if not p or (p>0)!=(tm>0):continue
+  t=abs(p)
+  if t==1:
+   d=16*tm;r=s>>4
+   p7=r==(6 if tm>0 else 1)
+   o=s+d;tg=[]
+   if not B[o]:tg.append(o)
+   for dd in (d-1,d+1):
+    x=s+dd
+    if not x&0x88 and (B[x] and (B[x]>0)!=(tm>0) or x==ep):tg.append(x)
+   for x in tg:
+    if p7:
+     for pr in (5,2,3,4):yield s|x<<7|pr<<14
+    else:yield s|x<<7
+   if tg and tg[0]==o and r==(1 if tm>0 else 6) and not B[o+d]:yield s|(o+d)<<7
+  else:
+   for d in (ND,BD,RD,KD,KD)[t-2]:
+    x=s
+    while 1:
+     x+=d
+     if x&0x88:break
+     q=B[x]
+     if not q:
+      yield s|x<<7
+     else:
+      if (q>0)!=(tm>0):yield s|x<<7
+      break
+     if t in (2,6):break
+   if t==6:
+    for rb,kq,dr in CT:
+     if s==kq and cs&rb and all(not B[kq+i*dr] for i in (1,2,3) if i<3 or dr<0) and all(not at(kq+i*dr,-tm) for i in (0,1,2)):yield kq|(kq+2*dr)<<7
+def mk(m):
+ global tm,cs,ep,sc
+ stk.append((B[:],tm,cs,ep,sc,ks[1],ks[-1]))
+ f=m&127;t=(m>>7)&127;pr=(m>>14)&7
+ p=B[f];cap=B[t];cq=t
+ if not cap and ep==t and abs(p)==1 and (f&7)!=(t&7):
+  cq=t-16*tm;cap=B[cq]
+ sc-=EV[p+6][f];B[f]=0
+ if cap:sc-=EV[cap+6][cq];B[cq]=0
+ if pr:p=pr*tm
+ B[t]=p;sc+=EV[p+6][t]
+ if abs(p)==6:
+  ks[tm]=t
+  if abs(t-f)==2:
+   rf,rt=(f+3,f+1) if t>f else (f-4,f-1)
+   B[rt]=B[rf];B[rf]=0
+   sc+=EV[4*tm+6][rt]-EV[4*tm+6][rf]
+ cs &= CM.get(f,15)&CM.get(t,15)
+ ep=f+16*tm if abs(p)==1 and abs(t-f)==32 else -1
+ tm=-tm
+def um():
+ global tm,cs,ep,sc
+ B[:],tm,cs,ep,sc,a,b=stk.pop()
+ ks[1]=a;ks[-1]=b
+def sr(d,a,b):
+ if d<=0:return sc*tm+8
+ tk()
+ v=-INF
+ for m in gen():
+  mk(m)
+  if at(ks[-tm],tm):
+   um();continue
+  s=-sr(d-1,-b,-a)
+  um()
+  if s>v:v=s
+  if s>a:
+   a=s
+   if a>=b:break
+ if v<=-INF:return -MATE if at(ks[tm],-tm) else 0
+ return v
+def uci(m):
+ s=chr(97+(m&7))+str((m>>4&7)+1)+chr(97+((m>>7)&7))+str((m>>11&7)+1)
+ if m>>14:s+="nbrq"[m>>14-2]
+ return s
+def sf(fen):
+ global tm,cs,ep,sc
+ ps=fen.split()
+ B[:]=[0]*128;stk.clear()
+ sc=0;i=112
+ for c in ps[0]:
+  if c=="/":i-=24
+  elif c.isdigit():i+=int(c)
+  else:
+   p="pnbrqk".find(c.lower())+1
+   sg=1-2*c.islower()
+   B[i]=sg*p;sc+=EV[sg*p+6][i]
+   if p==6:ks[sg]=i
+   i+=1
+ tm=1-2*(ps[1]=="b")
+ cs=sum({"K":1,"Q":2,"k":4,"q":8}.get(c,0) for c in ps[2])
+ ep=-1 if ps[3]=="-" else (int(ps[3][1])-1)*16+ord(ps[3][0])-97
+def fm(lg):
+ global nd,cp
+ cd=[m for m in gen() if (mk(m),not at(ks[-tm],tm),um())[1]]
+ if len(cd)==1:return cd[0]
+ el=time.monotonic()-T0
+ cp=(CAP>>((el>600)+(el>1000)+(el>1400))) if el<=1650 else 2000
+ nd=0;best=cd[0]
+ for dep in range(1,99):
+  loc=0;cur=-INF;a=-INF
+  try:
+   for m in cd:
+    mk(m);s=-sr(dep-1,-INF,-a);um()
+    if s>cur:cur=s;loc=m
+    if s>a:a=s
+  except ValueError:break
+  if loc:best=loc
+  if nd>=cp:break
+ return best
+def main():
+ url=os.environ["MAKEFUN_ENV_URL"]
+ post=lambda p,b:json.load(U.urlopen(U.Request(url+p,data=json.dumps(b).encode())))
+ while 1:
+  g=post("/game",{})
+  if g["status"]=="done":break
+  while g["status"]=="your_move":
+   sf(g["fen"])
+   g=post("/move",{"game":g["game"],"move":uci(fm(g["legal_moves"]))})
+if __name__=="__main__":main()
